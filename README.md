@@ -1,6 +1,6 @@
 # Hi, I'm Chris 👋
 
-I'm an ML/AI engineer with a soft spot for Vision Transformers, self-supervised learning, and mathematical puzzles.
+I'm an ML/AI engineer with a soft spot for Vision Transformers, self-supervised learning, mathematical puzzles and plants.
 
 ---
 
