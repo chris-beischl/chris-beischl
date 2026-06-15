@@ -6,8 +6,8 @@ I'm an ML/AI engineer with a soft spot for Vision Transformers, self-supervised 
 
 ### 🎓 Education
 
-**M.Sc. Data Engineering and Analytics** — Technical University of Munich (TUM)
-**B.Sc. Computer Science** — Technical University of Munich (TUM)
+- **M.Sc. Data Engineering and Analytics** — Technical University of Munich (TUM)
+- **B.Sc. Computer Science** — Technical University of Munich (TUM)
 
 ---
 
@@ -15,7 +15,6 @@ I'm an ML/AI engineer with a soft spot for Vision Transformers, self-supervised 
 
 **[MultiMAE for Brain MRIs: Robustness to Missing Inputs Using Multi-Modal Masked Autoencoder](https://arxiv.org/abs/2509.11442)** — *joint first author*
 MICCAI **MLMI** Workshop, 2025 · [Springer](https://link.springer.com/chapter/10.1007/978-3-032-09513-8_55) · [Code](https://github.com/chris-beischl/multimae-for-brain-mri)
-Multi-modal masked autoencoding for self-supervised representation learning on 3D brain MRI.
 
 ---
 
@@ -31,12 +30,6 @@ Vision Transformers and attention from the ground up · self-supervised / masked
 
 ---
 
-### 💬 Ask me about
+### 💬 Talk with me about
 
 Machine learning, cool algorithms, some maths - and plants 🌿.
-
----
-
-### 🔗 Find me
-
-- GitHub: [@chris-beischl](https://github.com/chris-beischl)
