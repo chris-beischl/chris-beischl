@@ -1,6 +1,9 @@
 # Hi, I'm Chris 👋
 
-I'm an ML/AI engineer with a soft spot for privacy-preserving machine learning, Vision Transformers, self-supervised learning, mathematical puzzles and plants.
+I'm a PhD student at the [AI in Medicine Lab](aim-lab.io) @ TUM, working on **privacy-preserving machine learning**.
+- 🔬 Also into Vision Transformers and self-supervised learning
+- ☕️ Coffee lover
+- 🌱 Plant enthusiast
 
 ---
 
