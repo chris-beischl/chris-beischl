@@ -1,6 +1,6 @@
 # Hi, I'm Chris 👋
 
-I'm an ML/AI engineer with a soft spot for Vision Transformers, self-supervised learning, mathematical puzzles and plants.
+I'm an ML/AI engineer with a soft spot for privacy-preserving machine learning, Vision Transformers, self-supervised learning, mathematical puzzles and plants.
 
 ---
 
@@ -20,16 +20,17 @@ MICCAI **MLMI** Workshop, 2025 · [Springer](https://link.springer.com/chapter/1
 
 ### 🔬 Interests
 
-Vision Transformers and attention from the ground up · self-supervised / masked-image pretraining · 3D medical imaging · graph learning and robustness · and the engineering side of ML — serving, containerization, and reproducible experiments that actually run twice the same way.
+Privacy-Preserving Machine · Learning Vision Transformers and attention from the ground up · self-supervised / masked-image pretraining · 3D medical imaging · graph learning and robustness · and the engineering side of ML — serving, containerization, and reproducible experiments that actually run twice the same way.
 
 ---
 
 ### 🌱 Currently learning
 
+**Privacy-Preserving ML** - getting deep into attacks and defenses :) 
 **Reinforcement Learning** — working through it properly, from the foundations up, with the goal of building agents I genuinely understand rather than ones I can only configure.
 
 ---
 
 ### 💬 Talk with me about
 
-Machine learning, cool algorithms, some maths - and plants 🌿.
+Machine learning, cool algorithms, some maths, plants 🌿.
